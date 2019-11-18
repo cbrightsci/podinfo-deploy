@@ -1,0 +1,1 @@
+{"jobID":"8054d060-c6da-6bdb-b3df-66b02b56e7f0","spec":{"type":"policy","cause":{"Message":"","User":"Christopher Bright \u003cchristopher.bright@aruplab.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
